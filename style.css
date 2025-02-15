@@ -1,0 +1,98 @@
+.bona-nova-regular {
+    font-family: "Bona Nova", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .bona-nova-bold {
+    font-family: "Bona Nova", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .bona-nova-regular-italic {
+    font-family: "Bona Nova", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .div1{
+    margin-top: 100px;
+    margin-right: 70px;
+  }
+
+  .div1 h2{
+    text-align: center;
+  }
+
+  .div1 h3{
+    padding-top: 5px;
+    text-align: center;
+  }
+
+  .div1 p{
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  .div3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 350px;
+    margin-top: 40px;
+    margin-left: 25%;
+    margin-bottom: 0;
+  }
+
+  .div2{
+    margin-top: 20px;
+  }
+  input{
+    background-color: #D6CE80;
+    border-radius: 10px;
+    width: 510px;
+    height: 58px;
+    margin: 8px;
+    margin-left: 150px;
+    border-width: 0;
+    padding-left: 15px;
+  }
+  p{
+    color: white;
+  }
+
+  .Create, .LoginAccount{
+    background: none;
+    color: #CC9600;
+    text-decoration: underline;
+    border-width: 0;
+    padding: 0;
+    margin-bottom: 15px;
+  }
+
+  .LoginAccount{
+    display: none;
+  }
+  .login{
+    background-color: #CC9600;
+    color: white;
+    margin-left: 370px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    border-width: 0;
+    width: 90px;
+  }
+  h2{
+    color: #CC9600;
+  }
+
+  h3{
+    color: #CC9600;
+  }
+
+  a{
+    color: #CC9600;
+  }
+  
